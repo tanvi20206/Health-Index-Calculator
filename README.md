@@ -1,7 +1,7 @@
 # Health-Index-Calculator
 
 
-**A BMI 🤖 calculator written in Python and Tkinter for interface ** helps you assess your Body Mass Index (BMI) based on your heightand weight. You simply enter your height and weight, and the program calculates your BMI using the formula:
+A BMI 🤖 calculator written in Python and Tkinter for interface  helps you assess your Body Mass Index (BMI) based on your heightand weight. You simply enter your height and weight, and the program calculates your BMI using the formula:
 
 `BMI = weight (kg) / height (m)^2`
 
